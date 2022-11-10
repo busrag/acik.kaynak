@@ -1,0 +1,8 @@
+category,serialNo,country,firstFlight
+Airbus,310,USA,1982
+Beech,1900,USA,['1982']
+Boeing,307,USA,1938
+Fokker,F-50,Germany,1985
+Kawasaki,OH-1,Japan,1996
+Tupolev,144,SSCB,1968
+saab,340,sweden,['1983']
